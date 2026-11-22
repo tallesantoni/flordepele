@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Flor de Pele — Gestão Farmasi",
+  "short_name": "Flor de Pele",
+  "description": "Gestão móvel de estoque, vendas, clientes e eventos.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf7f8",
+  "theme_color": "#743b4a",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
